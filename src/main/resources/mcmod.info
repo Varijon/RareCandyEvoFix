@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rarecandyevofix",
+  "name": "RareCandyEvoFix",
+  "description": "Tiny mod for letting players fix stuck evolutions using Rare Candies.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
